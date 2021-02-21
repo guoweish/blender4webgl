@@ -7,5 +7,6 @@ Learned from Derek Elliott!
 
 ## CH-02: A standard model to test animation in webgl engine
 * animation action defined as name of "fly"
+
 ![IMG](https://raw.githubusercontent.com/guoweish/blender4webgl/main/ch-02/plane/1.png)
 
