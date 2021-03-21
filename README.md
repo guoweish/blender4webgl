@@ -10,3 +10,6 @@ Learned from Derek Elliott!
 
 ![IMG](https://raw.githubusercontent.com/guoweish/blender4webgl/main/ch-02/plane/1.png)
 
+## CH-03: First organic creature
+![IMG](https://raw.githubusercontent.com/guoweish/blender4webgl/main/ch-03/seaflower.png)
+
